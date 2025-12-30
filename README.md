@@ -1,22 +1,28 @@
-# BMI Calculator (Tkinter)
+# Objective
+To develop a user-friendly BMI (Body Mass Index) Calculator using Python and Tkinter that calculates BMI based on user input and categorizes the result with visual feedback.
 
-A GUI-based BMI Calculator built using Python and Tkinter.
+## Steps Performed
+- Designed a graphical user interface (GUI) using Tkinter
+- Collected user input for weight (kg) and height (meters)
+- Implemented BMI calculation logic using the standard formula
+- Classified BMI into categories:
+    - Underweight
+    - Healthy Weight
+    - Overweight
+    - Obesity
+    - Severe Obesity
+- Displayed BMI category with color-coded output
+- Added input validation and error handling for invalid values
 
-## Features
-- Simple and user-friendly GUI
-- Calculates Body Mass Index (BMI)
-- Displays BMI category with color indication
-
-## How to Run
-1. Install Python (version 3.x)
-2. Download or clone this repository
-3. Open the project folder in VS Code
-4. Run the file using:
-   python bmi_gui.py
-
-## Technologies Used
+## Tools Used
 - Python
 - Tkinter
+- VS Code
+- GitHub
 
-## Author
-Mahalakshmi Govindaraj
+## Outcome
+A functional and interactive GUI=based BMI Calculator that:
+  * Accurately calculates BMI 
+  * Provides instant health category feedback
+  * Enhances user experience through color-coded results and validation.
+
