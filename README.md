@@ -21,7 +21,7 @@ To develop a user-friendly BMI (Body Mass Index) Calculator using Python and Tki
 - GitHub
 
 ## Outcome
-A functional and interactive GUI=based BMI Calculator that:
+A functional and interactive GUI-based BMI Calculator that:
   * Accurately calculates BMI 
   * Provides instant health category feedback
   * Enhances user experience through color-coded results and validation.
